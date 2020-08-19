@@ -11,8 +11,7 @@
     "ws": "^7.0.0"
   },
   "engines": {
-    "node": ">=10.0.0",
-    "npm": ">=6.0.0"
+    "node": "0.10.x"
   },
   "scripts": {
     "start": "node index.js"
